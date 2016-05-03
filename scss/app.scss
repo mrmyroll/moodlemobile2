@@ -38,10 +38,10 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 .connect,
 .credentials,
 .reconnect {
-    background-color: #6e999d;
+    background-color: #df57c5;
     background-image: url($image-path + "/logo.png"), url($image-path + "/bg_2.png");
     background-repeat: no-repeat;
-    background-position: top 20px center, bottom right;
+    background-position: top 20px center, bottom left;
     background-size: 260px auto, 50%;
     padding-top: 65px;
     .list-inset {
