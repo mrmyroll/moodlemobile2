@@ -38,8 +38,8 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
 .connect,
 .credentials,
 .reconnect {
-    background-color: #df57c5;
-    background-image: url($image-path + "/logo.png"), url($image-path + "/bg_2.png");
+    background-color: #ffa200;
+    background-image: url($image-path + "/logo.png");
     background-repeat: no-repeat;
     background-position: top 20px center, bottom left;
     background-size: 260px auto, 50%;
